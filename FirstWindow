@@ -3,6 +3,6 @@
 from tkinter import *
 #importing all the functions from tkinter library
 a=Tk()
-#creating object a
+#creating object a 
 a.title("first GUI window")
-#created a titled window in default size
+#created a titled window in default size title is a method here !
