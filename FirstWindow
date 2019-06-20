@@ -1,0 +1,8 @@
+#first tkinter program
+#creating a window
+from tkinter import *
+#importing all the functions from tkinter library
+a=Tk()
+#creating object a
+a.title("first GUI window")
+#created a titled window in default size
